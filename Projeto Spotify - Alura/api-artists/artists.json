@@ -1,0 +1,46 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Laufey",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb71eb8f92b86868400ed4e006"
+    },
+    {
+      "id": 2,
+      "name": "TXT",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb4ada047a1c3089342294290"
+    },
+    {
+      "id": 3,
+      "name": "Beabadoobee",
+      "genre": "Alternative/Indie",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe7c6cea0c83857388127fced"
+    },
+    {
+      "id": 4,
+      "name": "Lisa",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb"
+    },
+    {
+      "id": 5,
+      "name": "Jão",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc4bed49b3a6321d7a2097ace"
+    },
+    {
+      "id": 6,
+      "name": "Anavitória",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174b19a04810bc403323d359b5f"
+    },
+    {
+      "id": 7,
+      "name": "Aespa",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174f7a1090ad3a35a34fc0ecb57"
+    }
+  ]
+}
