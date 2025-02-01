@@ -33,3 +33,8 @@ document.addEventListener('input', function () {
 
   requestApi(searchTerm);
 })
+
+
+function spotify(){
+  window.location.href = "https://accounts.spotify.com/pt-BR/login/";
+}
