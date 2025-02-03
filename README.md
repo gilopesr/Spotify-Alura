@@ -12,3 +12,24 @@ Este projeto tem como objetivo recriar a página inicial do Spotify, implementan
 ## 🛠️ Tecnologias Utilizadas  
 - **Frontend:** JavaScript, HTML, CSS  
 - **Backend:** Node.js e Json-server para simulação da API  
+
+
+## 📌 Como Rodar o Projeto
+
+### Backend
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/gilopesr/Spotify-Alura.git
+   ```
+2. Acesse a pasta:
+   ```bash
+   cd Spotify-Alura
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Inicie o servidor:
+   ```bash
+   npm start
+   ```
