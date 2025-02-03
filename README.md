@@ -1,5 +1,5 @@
 # 🎵 Recriação do Spotify  
-**Imersão Front End - Alura**  
+**#Imersao-front-end-alura**  
 
 Este projeto tem como objetivo recriar a página inicial do Spotify, implementando uma API própria para gerenciamento de artistas. O foco é a prática de desenvolvimento front-end e consumo de APIs personalizadas.  
 ![image](https://github.com/user-attachments/assets/e774a569-f459-4b8d-a207-3a209002b60c)
