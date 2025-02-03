@@ -41,6 +41,36 @@
       "name": "Aespa",
       "genre": "K-Pop",
       "urlImg": "https://i.scdn.co/image/ab67616100005174f7a1090ad3a35a34fc0ecb57"
+    },
+    {
+      "id": 8,
+      "name": "Tyler, the creator",
+      "genre": "Rap",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52"
+    },
+    {
+      "id": 9,
+      "name": "NewJeans",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9"
+    },
+    {
+      "id": 10,
+      "name": "Chappell Roan",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee"
+    },
+    {
+      "id": 11,
+      "name": "Jennie",
+      "genre": "K-pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebcab652097be01bf194cdf11d"
+    },
+    {
+      "id":12,
+      "name":"Sabrina Carpenter",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae"
     }
   ]
 }
